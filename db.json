@@ -4,6 +4,7 @@
       "id": 123,
       "nom": "Doe",
       "prenom": "Jane",
+      "nss":"756.1212.33.44",
       "dateDebut": "31.08.2022",
       "dateFin": "01.01.2023"
     },
@@ -11,6 +12,7 @@
       "id": 456,
       "nom": "Vettel",
       "prenom": "Sebastian",
+      "nss":"756.2323.44.55",
       "dateDebut": "31.11.2022",
       "dateFin": "01.01.2024"
     },
@@ -18,6 +20,7 @@
       "id": 789,
       "nom": "Bottas",
       "prenom": "Valteri",
+      "nss":"756.3434.55.66",
       "dateDebut": "31.06.2022",
       "dateFin": "01.06.2023"
     }
