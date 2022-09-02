@@ -24,5 +24,20 @@
       "dateDebut": "31.06.2022",
       "dateFin": "01.06.2023"
     }
+  ],
+  
+  "documents": [
+    {
+        "id": 1,
+        "TypeEcheance":"ID",
+        "TitreDoc":"ID Suisse",
+        "Actif":true
+    },
+    {
+        "id": 2,
+        "TypeEcheance":"Contrtat travail",
+        "TitreDoc":"Contrtat travaile",
+        "Actif":true
+    }
   ]
 }
