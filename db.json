@@ -28,16 +28,22 @@
   
   "documents": [
     {
-        "id": 1,
+        "id": 123,
         "TypeEcheance":"ID",
         "TitreDoc":"ID Suisse",
         "Actif":true
     },
     {
-        "id": 2,
+        "id": 456,
         "TypeEcheance":"Contrtat travail",
         "TitreDoc":"Contrtat travaile",
         "Actif":true
+    },
+    {
+        "id": 789,
+        "TypeEcheance":"DOC1",
+        "TitreDoc":"Document1",
+        "Actif":false
     }
   ]
 }
