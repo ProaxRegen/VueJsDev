@@ -25,7 +25,6 @@
       "dateFin": "01.06.2023"
     }
   ],
-  
   "documents": [
     {
         "id": 123,
@@ -45,5 +44,80 @@
         "TitreDoc":"Document1",
         "Actif":false
     }
-  ]
+  ],
+  "courriers": [
+    {
+      "id": 1,
+      "courrier": "Convocation - avec entretient",
+      "template": "convocation_avec_entretient.odt",
+      "typeCourrier": "Nouvelle demande",
+      "documentRappelLie": "Rappel - nouvelle demande PCF",
+      "typeDossier": "Tous", 
+      "actif": true,
+      "gedMetaData": "type:nouvelle demande;concerne:pcfamille",
+      "texteParDefaut":"texte par defait",
+      "parametres":"parametres"
+    },
+    
+    {
+      "id": 2,
+      "courrier": "Convocation - avec entretient",
+      "template": "convocation_avec_entretient.odt",
+      "typeCourrier": "Nouvelle demande",
+      "documentRappelLie": "Rappel - nouvelle demande PCF",
+      "typeDossier": "Tous", 
+      "actif": true,
+      "gedMetaData": "type:nouvelle demande;concerne:pcfamille",
+      "texteParDefaut":"texte par defait",
+      "parametres":"parametres"
+    },
+    {
+      "id": 3,
+      "courrier": "Convocation - avec entretient",
+      "template": "convocation_avec_entretient.odt",
+      "typeCourrier": "Nouvelle demande",
+      "documentRappelLie": "Rappel - nouvelle demande PCF",
+      "typeDossier": "Tous", 
+      "actif": true,
+      "gedMetaData": "type:nouvelle demande;concerne:pcfamille",
+      "texteParDefaut":"texte par defait",
+      "parametres":"parametres"
+    },
+    {
+      "id": 4,
+      "courrier": "Convocation - avec entretient",
+      "template": "convocation_avec_entretient.odt",
+      "typeCourrier": "Nouvelle demande",
+      "documentRappelLie": "Rappel - nouvelle demande PCF",
+      "typeDossier": "Tous", 
+      "actif": true,
+      "gedMetaData": "type:nouvelle demande;concerne:pcfamille",
+      "texteParDefaut":"texte par defait",
+      "parametres":"parametres"
+    },
+    {
+      "id": 5,
+      "courrier": "Convocation - avec entretient",
+      "template": "convocation_avec_entretient.odt",
+      "typeCourrier": "Nouvelle demande",
+      "documentRappelLie": "Rappel - nouvelle demande PCF",
+      "typeDossier": "Tous", 
+      "actif": true,
+      "gedMetaData": "type:nouvelle demande;concerne:pcfamille",
+      "texteParDefaut":"texte par defait",
+      "parametres":"parametres"
+    },
+    {
+      "id": 6,
+      "courrier": "Convocation - avec entretient",
+      "template": "convocation_avec_entretient.odt",
+      "typeCourrier": "Nouvelle demande",
+      "documentRappelLie": "Rappel - nouvelle demande PCF",
+      "typeDossier": "Tous", 
+      "actif": true,
+      "gedMetaData": "type:nouvelle demande;concerne:pcfamille",
+      "texteParDefaut":"texte par defait",
+      "parametres":"parametres"
+    }
+    ]
 }
